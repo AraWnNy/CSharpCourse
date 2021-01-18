@@ -1,0 +1,13 @@
+D:\C#\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+D:\C#\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+D:\C#\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+D:\C#\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+D:\C#\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+D:\C#\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+D:\C#\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csprojAssemblyReference.cache
+D:\C#\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+D:\C#\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+D:\C#\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+D:\C#\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+D:\C#\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache

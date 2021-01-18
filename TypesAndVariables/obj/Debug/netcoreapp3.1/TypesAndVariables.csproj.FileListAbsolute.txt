@@ -1,0 +1,13 @@
+D:\C#\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.exe
+D:\C#\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.deps.json
+D:\C#\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.runtimeconfig.json
+D:\C#\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.runtimeconfig.dev.json
+D:\C#\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.dll
+D:\C#\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.pdb
+D:\C#\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.csprojAssemblyReference.cache
+D:\C#\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.AssemblyInfoInputs.cache
+D:\C#\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.AssemblyInfo.cs
+D:\C#\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.dll
+D:\C#\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.pdb
+D:\C#\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.genruntimeconfig.cache

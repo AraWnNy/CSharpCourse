@@ -1,0 +1,15 @@
+D:\C#\CSharpCourse\Recap_Demo_1\bin\Debug\netcoreapp3.1\Recap_Demo_1.exe
+D:\C#\CSharpCourse\Recap_Demo_1\bin\Debug\netcoreapp3.1\Recap_Demo_1.deps.json
+D:\C#\CSharpCourse\Recap_Demo_1\bin\Debug\netcoreapp3.1\Recap_Demo_1.runtimeconfig.json
+D:\C#\CSharpCourse\Recap_Demo_1\bin\Debug\netcoreapp3.1\Recap_Demo_1.runtimeconfig.dev.json
+D:\C#\CSharpCourse\Recap_Demo_1\bin\Debug\netcoreapp3.1\Recap_Demo_1.dll
+D:\C#\CSharpCourse\Recap_Demo_1\bin\Debug\netcoreapp3.1\Recap_Demo_1.pdb
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.csprojAssemblyReference.cache
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.Form1.resources
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.csproj.GenerateResource.cache
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.AssemblyInfoInputs.cache
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.AssemblyInfo.cs
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.dll
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.pdb
+D:\C#\CSharpCourse\Recap_Demo_1\obj\Debug\netcoreapp3.1\Recap_Demo_1.genruntimeconfig.cache
