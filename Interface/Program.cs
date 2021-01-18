@@ -6,12 +6,15 @@ namespace Interface
     {
         static void Main(string[] args)
         {
-            Deneme deneme = new Deneme();
+            /*Deneme deneme = new Deneme();
             deneme.greetings2();
-            Console.ReadLine();
+            Console.ReadLine();*/
+
+
         }
     }
 
+    /*
     interface ıInterface
     {
         public void greetings();
@@ -30,4 +33,5 @@ namespace Interface
             Console.WriteLine(String.Format("Hello {0}", name));
         }
     }
+    */
 }
