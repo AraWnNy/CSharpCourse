@@ -13,7 +13,7 @@ namespace Methods
 
             int a = 10;
             int b = 20;
-            Console.WriteLine("Metoddan dönen = {0}\n a nın değeri = {1}",summery(ref a,b), a);
+            Console.WriteLine("Metoddan dönen = {0}\na nın değeri = {1}",summery(ref a,b), a);
 
             Console.WriteLine(topla(6,5,4,3,2,1));
 
