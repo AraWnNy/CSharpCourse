@@ -10,3 +10,4 @@ D:\C#\CSharpCourse\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompil
 D:\C#\CSharpCourse\Interface\obj\Debug\netcoreapp3.1\Interface.dll
 D:\C#\CSharpCourse\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
 D:\C#\CSharpCourse\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
+D:\C#\CSharpCourse\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache

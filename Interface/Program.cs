@@ -6,32 +6,64 @@ namespace Interface
     {
         static void Main(string[] args)
         {
-            /*Deneme deneme = new Deneme();
-            deneme.greetings2();
-            Console.ReadLine();*/
+            //Interfacelerin kullanım şekilleri 
+            CustomerManager customerManger = new CustomerManager();
+            //customerManger.Add(new SQLiteDal());
+            //customerManger.Delete(new OracleDal());
 
+            ICustomerDal[] customerDals = new ICustomerDal[]
+            {
+                new SQLiteDal(),
+                new OracleDal()
+            };
 
+            foreach (ICustomerDal customerDal in customerDals)
+            {
+                customerDal.Add();
+                customerDal.Delete();
+                customerDal.Update();
+            }
+
+            //Çoklu implementasyon örneği için MultiImplementation.cs bakınız...
+            //Devamı
+
+            IWork[] workersArray = new IWork[]
+            {
+                new Manager(),
+                new Worker(),
+                new Robot()
+            };
+
+            IEat[] eatArray = new IEat[]
+            {
+                new Manager(),
+                new Worker()
+            };
+
+            ISalary[] salaryArray = new ISalary[]
+            {
+                new Manager(),
+                new Worker()
+            };
+
+            foreach (IWork worker in workersArray)
+            {
+                worker.Work();
+            }
+
+            foreach (IEat eater in eatArray)
+            {
+                eater.Eat();
+            }
+
+            foreach (ISalary salaryGetter in salaryArray)
+            {
+                salaryGetter.Salary();
+            }
+
+            Console.Read();
         }
     }
 
-    /*
-    interface ıInterface
-    {
-        public void greetings();
-        public void greetings2(String name  = "User");
-    }
-
-    class Deneme : ıInterface
-    {
-        public void greetings()
-        {
-            Console.WriteLine("Hello");
-        }
-
-        public void greetings2(string name = "User")
-        {
-            Console.WriteLine(String.Format("Hello {0}", name));
-        }
-    }
-    */
+    
 }
