@@ -1,0 +1,13 @@
+D:\C#\CSharpCourse\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\C#\CSharpCourse\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\C#\CSharpCourse\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\C#\CSharpCourse\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\C#\CSharpCourse\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\C#\CSharpCourse\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\C#\CSharpCourse\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+D:\C#\CSharpCourse\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\C#\CSharpCourse\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\C#\CSharpCourse\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCourse\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\C#\CSharpCourse\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\C#\CSharpCourse\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
