@@ -24,7 +24,7 @@ namespace TypesAndVariables
 
             Console.WriteLine(Days.Çarşamba);
 
-            var neOlduguBilinmeyen = "Kerem";
+            var neOlduguBilinmeyen = "Ali";
 
             Console.ReadLine();
         }

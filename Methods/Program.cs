@@ -7,7 +7,7 @@ namespace Methods
         static void Main(string[] args)
         {
             greetings();
-            greetings("Fikret");
+            greetings("Ali");
 
             sayWelcome("AraWnNy");
 

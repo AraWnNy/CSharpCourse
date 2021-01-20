@@ -6,7 +6,7 @@ namespace String
     {
         static void Main(string[] args)
         {
-            string metin = "Fikret";
+            string metin = "Tevfik";
             string metin_bosluk = "        Boşluk Karakteri            ";
             string metin_bolme = "Bugün-hava-çok-güzel.";
 
@@ -18,7 +18,7 @@ namespace String
 
             Console.WriteLine(metin.Length);
             Console.WriteLine(metin[0]);
-            Console.WriteLine(metin.Equals("Fikret"));
+            Console.WriteLine(metin.Equals("Tevfik"));
             Console.WriteLine(metin_bosluk.Trim());
             Console.WriteLine(metin.ToUpper());
             Console.WriteLine(metin.ToLower());
@@ -28,14 +28,14 @@ namespace String
             Console.WriteLine(metin_bolme.Replace('-',' '));
             Console.WriteLine(metin.IndexOf('k'));
             Console.WriteLine(metin.LastIndexOf('k'));
-            Console.WriteLine(metin.Insert(metin.Length, " Gözütok"));
+            Console.WriteLine(metin.Insert(metin.Length, " Fikret"));
             Console.WriteLine(metin.Remove(2,2));
 
             //Referans Tip
             Console.WriteLine("*********************************");
-            string metin2 = "Hira";
+            string metin2 = "Ahmet";
             string yeni_metin = (string)metin2.Clone();
-            metin2 = "Kerem";
+            metin2 = "Kasım";
 
             Console.WriteLine(metin2 + "\n" + yeni_metin);
 

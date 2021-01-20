@@ -8,11 +8,11 @@ namespace Arrays
         {
             //Tanımlama
             /*string[] isimler = new string[5];
-            isimler[0] = "Fikret";
-            isimler[1] = "Kerem";
-            isimler[2] = "Hira";
-            isimler[3] = "Hüseyin";
-            isimler[4] = "Arife";
+            isimler[0] = "Ahmet";
+            isimler[1] = "Mehmet";
+            isimler[2] = "Hasan";
+            isimler[3] = "Veli";
+            isimler[4] = "Arif";
 
             for (int i = 0; i<isimler.Length; i++)
             {
