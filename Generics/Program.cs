@@ -4,10 +4,12 @@ namespace Generics
 {
     class Program
     {
+        static Liste<string> myList;
         static void Main(string[] args)
         {
             //Bu projede generic yapısını kullanarak kendi liste yapımızı oluşturacağız.
-            Liste<string> myList = new Liste<string>();
+            myList = new Liste<string>();
+
             Console.WriteLine(myList.elemanSayisi());
             myList.ekle("fikret");
             myList.ekle("ahmet");
@@ -16,27 +18,24 @@ namespace Generics
             myList.ekle("gökhan");
             myList.ekle("asma");
             Console.WriteLine(myList.elemanSayisi());
-
-            for (int i = 0; i< myList.elemanSayisi(); i++)
-            {
-                Console.WriteLine(myList.getir(i));
-            }
+            listele();
 
             myList.sil(2);
-
-            for (int i = 0; i < myList.elemanSayisi(); i++)
-            {
-                Console.WriteLine(myList.getir(i));
-            }
-
+            listele();
             Console.WriteLine(myList.elemanSayisi());
 
             myList.guncelle("fikret","tunahan");
+            listele();
+
+            Console.Read();
+        }
+
+        public static void listele()
+        {
             for (int i = 0; i < myList.elemanSayisi(); i++)
             {
                 Console.WriteLine(myList.getir(i));
             }
-            Console.Read();
         }
     }
 }
