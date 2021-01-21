@@ -1,0 +1,12 @@
+D:\C#\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+D:\C#\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+D:\C#\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+D:\C#\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+D:\C#\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\C#\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+D:\C#\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+D:\C#\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+D:\C#\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\C#\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+D:\C#\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

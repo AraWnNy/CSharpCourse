@@ -60,6 +60,10 @@ namespace Methods
             return toplam;
         }
 
+    }
 
+    public class Test
+    {
+        //Bu class AccessModifiers projesinde kullanılıyor.
     }
 }

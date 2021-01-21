@@ -1,0 +1,13 @@
+D:\C#\CSharpCourse\Recap_Demo_2\bin\Debug\netcoreapp3.1\Recap_Demo_2.exe
+D:\C#\CSharpCourse\Recap_Demo_2\bin\Debug\netcoreapp3.1\Recap_Demo_2.deps.json
+D:\C#\CSharpCourse\Recap_Demo_2\bin\Debug\netcoreapp3.1\Recap_Demo_2.runtimeconfig.json
+D:\C#\CSharpCourse\Recap_Demo_2\bin\Debug\netcoreapp3.1\Recap_Demo_2.runtimeconfig.dev.json
+D:\C#\CSharpCourse\Recap_Demo_2\bin\Debug\netcoreapp3.1\Recap_Demo_2.dll
+D:\C#\CSharpCourse\Recap_Demo_2\bin\Debug\netcoreapp3.1\Recap_Demo_2.pdb
+D:\C#\CSharpCourse\Recap_Demo_2\obj\Debug\netcoreapp3.1\Recap_Demo_2.csprojAssemblyReference.cache
+D:\C#\CSharpCourse\Recap_Demo_2\obj\Debug\netcoreapp3.1\Recap_Demo_2.AssemblyInfoInputs.cache
+D:\C#\CSharpCourse\Recap_Demo_2\obj\Debug\netcoreapp3.1\Recap_Demo_2.AssemblyInfo.cs
+D:\C#\CSharpCourse\Recap_Demo_2\obj\Debug\netcoreapp3.1\Recap_Demo_2.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCourse\Recap_Demo_2\obj\Debug\netcoreapp3.1\Recap_Demo_2.dll
+D:\C#\CSharpCourse\Recap_Demo_2\obj\Debug\netcoreapp3.1\Recap_Demo_2.pdb
+D:\C#\CSharpCourse\Recap_Demo_2\obj\Debug\netcoreapp3.1\Recap_Demo_2.genruntimeconfig.cache
