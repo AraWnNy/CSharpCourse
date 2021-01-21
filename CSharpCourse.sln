@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recap_Demo_2", "Recap_Demo_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{F16F9DA3-FA55-42D4-AB8A-22A6BD2153FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{641723CC-AFA9-4486-8EA8-BF4B3FE3FB50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{F16F9DA3-FA55-42D4-AB8A-22A6BD2153FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F16F9DA3-FA55-42D4-AB8A-22A6BD2153FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F16F9DA3-FA55-42D4-AB8A-22A6BD2153FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641723CC-AFA9-4486-8EA8-BF4B3FE3FB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641723CC-AFA9-4486-8EA8-BF4B3FE3FB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641723CC-AFA9-4486-8EA8-BF4B3FE3FB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641723CC-AFA9-4486-8EA8-BF4B3FE3FB50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
